@@ -1,0 +1,6 @@
+% Model:              c_0.2e-6_MW.mph
+% Version:            COMSOL 5.5.0.359
+% Date:               Oct 5 2021, 16:48
+% Table:              Table 3 - particle volume
+% particle volume        domain volume
+3.3510059936179065E-20   5.0265482457436715E-17

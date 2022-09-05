@@ -1,0 +1,6 @@
+% Model:              random_surface_grain_N_var_MW.mph
+% Version:            COMSOL 5.5.0.306
+% Date:               Aug 17 2021, 12:34
+% Table:              Table 2 - surface area
+% surface area
+4.3502104136289643E-10

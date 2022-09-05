@@ -1,0 +1,6 @@
+% Model:              a_5e-6_MW.mph
+% Version:            COMSOL 5.5.0.359
+% Date:               Aug 18 2021, 18:34
+% Table:              Table 8 - surface area
+% surface area
+3.1415926535513827E-10

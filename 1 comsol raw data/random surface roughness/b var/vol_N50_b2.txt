@@ -1,0 +1,6 @@
+% Model:              random_surface_grain_b_var_MW_fixed_phi.mph
+% Version:            COMSOL 5.5.0.359
+% Date:               Mar 24 2022, 09:32
+% Table:              Table 3 - particle volume
+% domain volume                                   domain volume
+5.400136815462351E-16                             8.100150000000029E-13

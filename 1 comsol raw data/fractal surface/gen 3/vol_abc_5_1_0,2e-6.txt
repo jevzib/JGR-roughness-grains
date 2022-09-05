@@ -1,0 +1,6 @@
+% Model:              abc_5_1_0.2e-6_MW - Kopie.mph
+% Version:            COMSOL 5.5.0.359
+% Date:               Mar 29 2022, 10:56
+% Table:              Table 3 - particle volume
+% particle volume        domain volume
+7.954627101297247E-16    1.1931899999999967E-12

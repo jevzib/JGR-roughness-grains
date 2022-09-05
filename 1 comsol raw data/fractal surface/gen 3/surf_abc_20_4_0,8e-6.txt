@@ -1,0 +1,6 @@
+% Model:              abc_20_4_0,8e-6_MW - Kopie.mph
+% Version:            COMSOL 5.5.0.359
+% Date:               Mar 28 2022, 10:55
+% Table:              Table 2 - surface area
+% surface area
+1.1408235781057745E-8

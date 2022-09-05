@@ -1,0 +1,6 @@
+% Model:              a_2e-5_MW.mph
+% Version:            COMSOL 5.5.0.306
+% Date:               Aug 17 2021, 11:11
+% Table:              Table 8 - Line Integration 2
+% surface area
+5.026548245743441E-9

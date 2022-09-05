@@ -1,0 +1,6 @@
+% Model:              20_4_e-6_MW_fixed_phi.mph
+% Version:            COMSOL 5.5.0.359
+% Date:               Mar 28 2022, 10:20
+% Table:              Table 3 - particle volume
+% volume                 volume
+4.708737976065084E-14    7.063050000000099E-11

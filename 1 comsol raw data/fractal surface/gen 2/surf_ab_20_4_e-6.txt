@@ -1,0 +1,6 @@
+% Model:              20_4_e-6_MW_fixed_phi.mph
+% Version:            COMSOL 5.5.0.359
+% Date:               Mar 28 2022, 10:20
+% Table:              Table 2 - surface area
+% surface area
+8.381046952251376E-9
